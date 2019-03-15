@@ -1,0 +1,33 @@
+/*
+* Maddie Tonn 
+* March 15, 2019  
+* My Schedule 
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+/* The background surronded the table*/ 
+background-color: lavender; 
+    
+}
+
+/* border format for the table */
+table, td, th { border: 2px solid lime; }
+
+/* style of the border */
+table { border-collapse: collapse; }
+
+/* The different colors for each section of my table */
+thead { background-color: lightpink; }
+tbody { background-color: lightyellow; }
+tfoot { background-color: cyan; }
+
+
